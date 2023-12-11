@@ -4,7 +4,7 @@ Hi 👋 My name is Konstantin
 Python Backend Developer
 ------------------------
 
-I have been programming for over 5 years. I specialize in development for Telegram (I have written more than 100 bots and userbots for different purposes and on different libraries) and development of parsers (more than 10 different services, including services with protection).
+I have been programming for over 2 years. I specialize in development for Telegram (I have written more than 100 bots and userbots for different purposes and on different libraries) and development of parsers (more than 10 different services, including services with protection).
 
 
 ### Skills
